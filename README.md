@@ -1,3 +1,3 @@
 # learn-github
 
-Start learning git-hub
+Changed readme file content
