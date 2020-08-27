@@ -1,3 +1,3 @@
 # learn-github
 
-Start leraning git-hub
+Start learning git-hub
